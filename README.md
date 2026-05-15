@@ -11,11 +11,4 @@ Demographics: Age group distribution (highest in 60–69 years), gender split (2
 
 Operational Metrics: Delay vs. on-time admissions, department referrals (Orthopedics & General Practice leading).
 
-🔧 Tools & Techniques
-Power BI for interactive dashboards
 
-Data modeling & cleaning for accuracy
-
-DAX calculations to derive averages and ratios
-
-Visual storytelling to make healthcare KPIs easy to interpret
